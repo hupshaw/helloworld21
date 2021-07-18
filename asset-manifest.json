@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/helloworld21/static/css/main.b0f242f3.chunk.css",
+    "main.css": "/helloworld21/static/css/main.8b524f87.chunk.css",
     "main.js": "/helloworld21/static/js/main.f7bf3e36.chunk.js",
     "main.js.map": "/helloworld21/static/js/main.f7bf3e36.chunk.js.map",
     "runtime-main.js": "/helloworld21/static/js/runtime-main.960a21bb.js",
@@ -10,7 +10,7 @@
     "static/js/3.b8ad687c.chunk.js": "/helloworld21/static/js/3.b8ad687c.chunk.js",
     "static/js/3.b8ad687c.chunk.js.map": "/helloworld21/static/js/3.b8ad687c.chunk.js.map",
     "index.html": "/helloworld21/index.html",
-    "static/css/main.b0f242f3.chunk.css.map": "/helloworld21/static/css/main.b0f242f3.chunk.css.map",
+    "static/css/main.8b524f87.chunk.css.map": "/helloworld21/static/css/main.8b524f87.chunk.css.map",
     "static/js/2.130c5a7c.chunk.js.LICENSE.txt": "/helloworld21/static/js/2.130c5a7c.chunk.js.LICENSE.txt",
     "static/media/Tempsite-device.bb2c8f80.png": "/helloworld21/static/media/Tempsite-device.bb2c8f80.png",
     "static/media/web_no_console.d7ffb2d8.png": "/helloworld21/static/media/web_no_console.d7ffb2d8.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.960a21bb.js",
     "static/js/2.130c5a7c.chunk.js",
-    "static/css/main.b0f242f3.chunk.css",
+    "static/css/main.8b524f87.chunk.css",
     "static/js/main.f7bf3e36.chunk.js"
   ]
 }
